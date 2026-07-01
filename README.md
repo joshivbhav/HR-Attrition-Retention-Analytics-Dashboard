@@ -20,7 +20,8 @@ Using a dataset of **1,470 employee records across 35 HR attributes**, this anal
 
 ## Dataset Overview
 
-| Attribute | Detail |
+| Attribute | Detail |                                                       <img width="1919" height="1079" alt="Screenshot 2026-07-01 122824" src="https://github.com/user-attachments/assets/839b43f3-7ed6-482e-8042-25b2c501c959" />
+
 |---|---|
 | **Total Records** | 1,470 employees |
 | **Total Attributes** | 35 HR variables |
@@ -35,6 +36,7 @@ Using a dataset of **1,470 employee records across 35 HR attributes**, this anal
 - **Operational Factors:** OverTime, Business Travel, Distance From Home, Number of Companies Worked, Training Times Last Year, Performance Rating
 
 ---
+<img width="831" height="518" alt="Screenshot 2026-07-01 122327" src="https://github.com/user-attachments/assets/ca4ff7bf-ad9b-43d7-b7b3-afd82eb8f37a" />
 
 ## Methodology & Technical Approach
 
@@ -48,7 +50,8 @@ This project applies a structured **data-to-insight pipeline** using native Exce
 
 ---
 
-## Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)                         <img width="1100" height="691" alt="Screenshot 2026-07-01 122802" src="https://github.com/user-attachments/assets/2a64e372-78fa-4721-8281-da4ce3324c90" />
+
 
 | Metric | Value |
 |---|---|
